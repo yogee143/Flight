@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.547 s <<< FAILURE! - in TestSuite
+validateSignOnImage(FlightPortal.ValidatePageFooterTest)  Time elapsed: 0.556 s  <<< FAILURE!
+java.lang.AssertionError: expected [© 2018, Mercury Interactive (v. 011003-1.01-058)] but found [© 2005, Mercury Interactive (v. 011003-1.01-058)]
+	at FlightPortal.ValidatePageFooterTest.validateSignOnImage(ValidatePageFooterTest.java:28)
+

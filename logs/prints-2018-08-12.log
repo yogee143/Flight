@@ -1,0 +1,6 @@
+23:57:23.181 [main] INFO  resources.base - Page Title : Flight Confirmation: Mercury Tours
+23:57:23.273 [main] INFO  resources.base - TICKET BOOKED SUCESSFULLY: Flight Confirmation # 2018-08-12112726
+23:57:26.712 [main] INFO  resources.base - Initalise the driver
+23:57:28.284 [main] INFO  resources.base - Get the URL :http://newtours.demoaut.com/mercurysignon.php
+23:57:28.293 [main] INFO  resources.base - Page Title : Sign-on: Mercury Tours
+23:57:28.356 [main] INFO  resources.base - Sign On image present

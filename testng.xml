@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="FlightPortal.listeners"></listener>
+</listeners>
+  <test name="Verify Login">
+    <classes>
+      <class name="FlightPortal.ValidateTicketBooking"/>
+    </classes>
+  </test> <!-- Test -->
+
+  <test name="Verify Sign On Image">
+    <classes>
+      <class name="FlightPortal.ValidateSignOnTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+  <test name="Verify Page Footer">
+    <classes>
+      <class name="FlightPortal.ValidatePageFooterTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+
+
+</suite> <!-- Suite -->

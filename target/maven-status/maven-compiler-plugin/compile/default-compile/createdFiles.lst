@@ -1,0 +1,6 @@
+pageObjects\FlightFinderPage.class
+pageObjects\LoginPage.class
+pageObjects\SelectFlightPage.class
+pageObjects\BookFlightPage.class
+pageObjects\FlightConfirmationPage.class
+resources\base.class
